@@ -1,6 +1,6 @@
 ### Hi there 👋, Duc Huy
 #### Student and Software Developer
-![Student and Software Developer]([https://images.unsplash.com/photo-1604964432806-254d07c11f32?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww](https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg))
+![Student and Software Developer](https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg)
 
 I am Huy from Vietnam, and I am a Frontend Software Developer. I really enjoy learning languages and frameworks like React, Java Spring and I love solving problems. I also enjoy listen to music, watching movie and of course, I can play football very well.
 

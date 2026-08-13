@@ -1,6 +1,6 @@
 ### Hi there 👋, Duc Huy
 #### Software Developer | Next.js, React.js, Node.js
-![Student and Software Developer](https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg)
+![Student and Software Developer]([https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg](https://drive.google.com/file/d/1GIa7jA7fTgugPGy60mVfmjrirJhqiw5L/view?usp=sharing))
 
 👋 Hello, I'm Nguyen Duc Huy, a Frontend Software Developer from Vietnam. I'm passionate about building intuitive and high-performance web applications, leveraging frameworks like React.js and Next.js. My strength lies in transforming complex problems into elegant, scalable solutions.
 
